@@ -24,3 +24,5 @@ Estudante de **Ciência da Computação** na [Universidade Federal de Lavras (UF
 
 - Email: [marcelorj280@gmail.com](mailto:marcelorj280@gmail.com)  
 - LinkedIn: [linkedin.com/in/celo-rod](https://linkedin.com/in/celo-rod)
+
+![Meu avatar](./assets/gcc259-avatar.png)
